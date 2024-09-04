@@ -5,9 +5,9 @@ int main(){
  int arr[]={1,2,3,4,5};
    // define the number of array
    int n = sizeof(arr)/sizeof(arr[0] );
-   for (int i =0;i<n;i++)
+   for (int i =0;i<1;i++)
    {
-    printf("%d\n",arr[i]);
+    printf("%d\n",arr[3]);
    }
 return 0;
 }
